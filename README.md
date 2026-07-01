@@ -22,10 +22,10 @@
   <a href="https://instagram.com/frlgsk_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/farrel-gaska-haryadi-ba0318312i">
+  <a href="https://www.linkedin.com/in/farrel-gaska-haryadi-ba0318312i">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="farrelgaskaharyadi@gmail.com">
+  <a href="https://gmail.com/farrelgaskaharyadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
