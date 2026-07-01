@@ -22,7 +22,7 @@
   <a href="https://instagram.com/frlgsk_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[www.linkedin.com/in/farrel-gaska-haryadi-ba0318312](https://www.linkedin.com/in/farrel-gaska-haryadi-ba0318312/)">
+  <a href="www.linkedin.com/in/farrel-gaska-haryadi-ba0318312">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://gmail.com/farrelgaskaharyadi@gmail.com">
