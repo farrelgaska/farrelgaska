@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/farrelgaska">
+  <a href="https://instagram.com/frlgsk_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://linkedin.com/in/farrel-gaska-haryadi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:EMAIL_KAMU">
+  <a href="mailto:farrelgaskaharyadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
